@@ -1,0 +1,8 @@
+{
+  "name": "M8Q",
+  "description": "M8Q-lCông cụ tự động hóa quy trình làm việc trực quan và trình chỉnh sửa đồ thị nút (node ​​graph editor) tương tự M8Q, tích hợp công cụ thực thi Python, tính năng ủy quyền dữ liệu (data proxying), phân nhánh và bộ lập lịch",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
